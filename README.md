@@ -1,3 +1,5 @@
+This branch is for my laptop dotfiles, which holds all files from the master branch (common dotfiles to be shared across all machines) as well as machine-specific files for this laptop.
+
 For general documentation, see `~/doc`. Scripts are in `~/bin`, and edited system configs are in `~/system-dotfiles`.
 
 ##first display
