@@ -7,3 +7,4 @@
         rmc = rm --cached
         sdiff = diff --diff-filter=M --stat --color
         slog = log --oneline --topo-order --graph
+        update = !git pull origin master && git checkout laptop && git merge master
